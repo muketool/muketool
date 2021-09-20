@@ -37,8 +37,8 @@ Muketool慕课网课助手，一个对超星学习通、智慧树知到网课平
 
 |         浏览器         |                           在线安装                           |                           离线安装                           |
 | :--------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|    谷歌Chrome浏览器    | [Chrome扩展商店](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo) | [**点击下载**](https://dl.muketool.com/tampermonkey/Tampermonkey_v4.12.0.0.crx) |
-|   火狐Firefox浏览器    | [Firefox扩展商店](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) | [**点击下载**](https://dl.muketool.com/tampermonkey/Tampermonkey_v4.12.0.0.crx) |
+|    谷歌Chrome浏览器    | **[Chrome扩展商店](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)** | [**点击下载**](https://dl.muketool.com/tampermonkey/Tampermonkey_v4.12.0.0.crx) |
+|   火狐Firefox浏览器    | **[Firefox扩展商店](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)** | [**点击下载**](https://dl.muketool.com/tampermonkey/Tampermonkey_v4.12.0.0.crx) |
 | 微软Edge浏览器（推荐） | **[Edge 外接程序商店](https://microsoftedge.microsoft.com/addons/detail/iikmkjmpaadaobahmlepeloendndfphd)** | [**点击下载**](https://dl.muketool.com/tampermonkey/Tampermonkey_v4.12.0.0.crx) |
 |     国产浏览器通用     |                 （请自行前往对应的扩展商店）                 | [**点击下载**](https://dl.muketool.com/tampermonkey/Tampermonkey_v4.12.0.0.crx) |
 
@@ -101,5 +101,4 @@ muketool@outlook.com
 
 **Telegram：**
 [@weather996](https://t.me/weather996)
-
 
